@@ -12,7 +12,7 @@ _Want to add something? Open a PR!_ 🙂
 
 - <a href="#linkerd">Linkerd for Kubernetes</a> - LinkerD service mesh.
 
-- <a href="#envoy">Envoy</a> - Most service meshes are based upon Envoy. This section discusses Envoy capabilities, and mentions some Envou based tools and products.
+- <a href="#envoy">Envoy</a> - Most service meshes are based upon Envoy. This section discusses Envoy capabilities, and mentions some Envoy based tools and products.
 <br />
 
 ## AWS App Mesh
@@ -43,7 +43,7 @@ _Want to add something? Open a PR!_ 🙂
 ### LinkerD
 
 - [LinkerD on AWS](https://github.com/HansNesbitt/linkerd-on-eks) - This github repo describes how to run LinkerD on AWS.
--
+
 ### Envoy
 
 ### Reference Architectures
