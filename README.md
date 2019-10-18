@@ -33,10 +33,12 @@ _Want to add something? Open a PR!_ 🙂
 
 ### App Mesh for Kubernetes
 
+- [Tutorial for App Mesh on K8](https://docs.aws.amazon.com/en_pv/app-mesh/latest/userguide/mesh-k8s-integration.html) - The official tutorial for App Mesh on Kubernetes.
 - [Learning App Mesh on Kubernetes](https://aws.amazon.com/blogs/compute/learning-aws-app-mesh/) - A tutorial on setting up App Mesh on Kubernetes.
 
 ### App Mesh for EC2
 
+- [App Mesh on EC2](https://docs.aws.amazon.com/en_pv/app-mesh/latest/userguide/mesh-getting-started-ec2.html) - This topic helps you to use AWS App Mesh with an existing microservice application running on Amazon EC2 instances. 
 
 ### ISTIO
 
