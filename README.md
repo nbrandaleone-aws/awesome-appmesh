@@ -1,4 +1,4 @@
-# [<img src="appmesh.png" width="60%">](https://aws.amazon.com/app-mesh/)
+# [<img src="appmesh-logo.png" width="60%">](https://aws.amazon.com/app-mesh/)
 
 A curated list of guides, development tools, and resources for [Amazon App Mesh](https://aws.amazon.com/app-mesh/). This list includes both community created content as well as content created by AWS.
 
@@ -26,8 +26,6 @@ _Want to add something? Open a PR!_ 🙂
 - [Appmesh on ECS using CDK](https://github.com/nathanpeck/greeter-app-mesh-cdk) - An example of how to use AWS Cloud Development Kit to setup an AWS App Mesh service mesh in AWS Elastic Container Service 
 
 ### App Mesh for Kubernetes
-  - [The Hitchhikers Guide to AWS ECS and Docker](http://start.jcolemorrison.com/the-hitchhikers-guide-to-aws-ecs-and-docker/) by [J. Cole Morrison](https://twitter.com/JColeMorrison) - Introduction to AWS ECS concepts
-  - [Working with AWS ECS](https://blog.rackspace.com/working-aws-ecs) by [Sriram Rajan](https://twitter.com/sriramrajan) of Rackspace
 
 ### App Mesh for EC2
 
