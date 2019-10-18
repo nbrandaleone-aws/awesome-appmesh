@@ -10,7 +10,7 @@ _Want to add something? Open a PR!_ 🙂
 
 - <a href="#istio">ISTIO for Kubernetes</a> - ISTIO is the most popular service mesh for the Kubernetes community.
 
-- <a href="#linkerd">Linkerd for Kubernetes</a> - LinkerD service mesh.
+- <a href="#linkerd">Linkerd for Kubernetes</a> - Linkerd service mesh.
 
 - <a href="#envoy">Envoy</a> - Most service meshes are based upon Envoy. This section discusses Envoy capabilities, and mentions some Envoy based tools and products.
 <br />
@@ -27,6 +27,7 @@ _Want to add something? Open a PR!_ 🙂
 - [X-Ray and App Mesh](https://aws.amazon.com/blogs/compute/integrating-aws-x-ray-with-aws-app-mesh/) - Leverging App Mesh with X-Ray for improved visiblity.
 - [App Mesh examples](https://github.com/aws/aws-app-mesh-examples) - The official repository of AWS App Mesh examples.
 - [App Mesh overview](https://itnext.io/aws-app-mesh-service-mesh-for-microservices-running-on-aws-3f667f005d6a) - A blog discussing the various App Mesh components for both EKS and ECS.
+- [Service Mesh the easy way with AWS App Mesh and SuperGloo](https://medium.com/solo-io/service-mesh-the-easy-way-with-aws-app-mesh-and-supergloo-5f2c1e0f443f) - SuperGloo simplifies Service Mesh experience by providing an abstraction layer for all common service meshes including App Mesh, ISTIO, Linkerd. SuperGloo is targeted at Kubernetes.
 
 ### App Mesh for ECS
 
@@ -39,6 +40,7 @@ _Want to add something? Open a PR!_ 🙂
 
 - [Tutorial for App Mesh on K8](https://docs.aws.amazon.com/en_pv/app-mesh/latest/userguide/mesh-k8s-integration.html) - The official tutorial for App Mesh on Kubernetes.
 - [Learning App Mesh on Kubernetes](https://aws.amazon.com/blogs/compute/learning-aws-app-mesh/) - A tutorial on setting up App Mesh on Kubernetes.
+- [Installing Flagger on EKS](https://github.com/weaveworks/flagger/blob/master/docs/gitbook/install/flagger-install-on-eks-appmesh.md) - Flagger is a CRD which executes automatic canary deployments for Kubernetes via a service mesh.
 
 ### App Mesh for EC2
 
@@ -46,9 +48,9 @@ _Want to add something? Open a PR!_ 🙂
 
 ### ISTIO
 
-### LinkerD
+### Linkerd
 
-- [LinkerD on AWS](https://github.com/HansNesbitt/linkerd-on-eks) - This github repo describes how to run LinkerD on AWS.
+- [Linkerd on AWS](https://github.com/HansNesbitt/linkerd-on-eks) - This github repo describes how to run Linkerd on AWS.
 
 ### Envoy
 
