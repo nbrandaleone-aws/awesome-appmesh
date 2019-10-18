@@ -26,6 +26,7 @@ _Want to add something? Open a PR!_ 🙂
 - [Monitoring App Mesh with DataDog](https://www.datadoghq.com/blog/envoy-app-mesh-monitoring/) - How to monitor App Mesh using DataDog
 - [X-Ray and App Mesh](https://aws.amazon.com/blogs/compute/integrating-aws-x-ray-with-aws-app-mesh/) - Leverging App Mesh with X-Ray for improved visiblity.
 - [App Mesh examples](https://github.com/aws/aws-app-mesh-examples) - The official repository of AWS App Mesh examples.
+- [App Mesh overview](https://itnext.io/aws-app-mesh-service-mesh-for-microservices-running-on-aws-3f667f005d6a) - A blog discussing the various App Mesh components for both EKS and ECS.
 
 ### App Mesh for ECS
 
