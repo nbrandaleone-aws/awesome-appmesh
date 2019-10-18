@@ -33,6 +33,8 @@ _Want to add something? Open a PR!_ 🙂
 
 ### LinkerD
 
+- [LinkerD on AWS](https://github.com/HansNesbitt/linkerd-on-eks) - This github repo describes how to run LinkerD on AWS.
+-
 ### Envoy
 
 ### Reference Architectures
