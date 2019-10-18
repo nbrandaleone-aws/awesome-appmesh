@@ -17,6 +17,9 @@ _Want to add something? Open a PR!_ 🙂
 
 ## AWS App Mesh
 
+- [Jeff Barr blog](https://aws.amazon.com/blogs/aws/aws-app-mesh-application-level-networking-for-cloud-applications/) - Jeff Barr's blog on App Mesh.
+- [Werner's blog](https://www.allthingsdistributed.com/2019/03/redefining-application-communications-with-aws-app-mesh.html) - Werner Vogels thoughts on redefining application communications.
+- [Introducing App Mesh](https://aws.amazon.com/blogs/compute/introducing-aws-app-mesh-service-mesh-for-microservices-on-aws/) - Service Mesh for microservices on AWS blog post.
 - [App Mesh Roadmap](https://github.com/aws/aws-app-mesh-roadmap)
 - [Introductory Video](https://www.youtube.com/watch?v=1UDRGlmbiZA&feature=youtu.be) - An overview of AppMesh
 - [Service Mesh Video](https://www.youtube.com/watch?v=hfzWtXKrv88) - An overview of numerous service meshes, and how to get started with App Mesh on AWS.
