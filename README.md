@@ -65,3 +65,5 @@ _Want to add something? Open a PR!_ 🙂
 ### Envoy
 
 ### Reference Architectures
+
+- [Another curated list of mesh information and blogs](https://github.com/festum/awesome-servicemesh) - A curated list of tools implements the concept of Service Mesh
