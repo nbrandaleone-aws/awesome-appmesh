@@ -29,7 +29,7 @@ _Want to add something? Open a PR!_ 🙂
 - [App Mesh examples](https://github.com/aws/aws-app-mesh-examples/tree/master/walkthroughs) - The official repository of AWS App Mesh examples.
 - [App Mesh overview](https://itnext.io/aws-app-mesh-service-mesh-for-microservices-running-on-aws-3f667f005d6a) - A blog discussing the various App Mesh components for both EKS and ECS.
 - [Service Mesh the easy way with AWS App Mesh and SuperGloo](https://medium.com/solo-io/service-mesh-the-easy-way-with-aws-app-mesh-and-supergloo-5f2c1e0f443f) - SuperGloo simplifies Service Mesh experience by providing an abstraction layer for all common service meshes including App Mesh, Istio, Linkerd. SuperGloo is targeted at Kubernetes.
-- [App Mesh integrstion with nginx Ingress](https://github.com/walkley/appmesh-ingress-example) - This repository illustrates how to setup Ingress-nginx with AWS App Mesh, using the example _color app_.
+- [App Mesh integration with nginx Ingress](https://github.com/walkley/appmesh-ingress-example) - This repository illustrates how to setup Ingress-nginx with AWS App Mesh, using the example _color app_.
 
 ### App Mesh for ECS
 
