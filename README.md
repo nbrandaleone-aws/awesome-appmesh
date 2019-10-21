@@ -66,6 +66,8 @@ _Want to add something? Open a PR!_ 🙂
 
 ### Envoy
 
+- [Envoy internals Deep Dive](https://www.youtube.com/watch?v=gQF23Vw0keg) - A video of Matt Klein (the creator of Envoy) discussing the internals of Envoy.
+
 ### Reference Architectures
 
 - [Another curated list of mesh information and blogs](https://github.com/festum/awesome-servicemesh) - A curated list of tools implements the concept of Service Mesh
