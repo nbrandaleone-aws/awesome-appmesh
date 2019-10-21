@@ -67,6 +67,7 @@ _Want to add something? Open a PR!_ 🙂
 ### Envoy
 
 - [Envoy internals Deep Dive](https://www.youtube.com/watch?v=gQF23Vw0keg) - A video of Matt Klein (the creator of Envoy) discussing the internals of Envoy.
+- [Envoy at Lyft](https://www.youtube.com/watch?v=RVZX4CwKhGE) - Matt discusses why he built Envoy, and the evolution of microservices at Lyft.
 
 ### Reference Architectures
 
