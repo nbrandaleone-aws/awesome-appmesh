@@ -48,7 +48,7 @@ _Want to add something? Open a PR!_ 🙂
 
 - [App Mesh on EC2](https://docs.aws.amazon.com/en_pv/app-mesh/latest/userguide/mesh-getting-started-ec2.html) - This topic helps you to use AWS App Mesh with an existing microservice application running on Amazon EC2 instances. 
 
-### ISTIO
+### Istio
 
 - [Official Istio site](https://istio.io/) Official Istio documentation.
 - [Getting started with Istio on Amazon EKS](https://aws.amazon.com/blogs/opensource/getting-started-istio-eks/) - A blog showing how to run Istio on EKS.
