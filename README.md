@@ -37,12 +37,14 @@ _Want to add something? Open a PR!_ 🙂
 - [Appmesh on ECS using CDK](https://github.com/nathanpeck/greeter-app-mesh-cdk) - An example of how to use AWS Cloud Development Kit to setup an AWS App Mesh service mesh in AWS Elastic Container Service 
 - [Voter App demo](https://github.com/aws-samples/voteapp) - An example of how to use App Mesh with a typical micro-service application.
 - [Canary Deployments using App Mesh on Fargate](https://hackernoon.com/perform-canary-deployments-with-aws-app-mesh-on-amazon-ecs-fargate-3l3lo3zf8) - In this article, I will walk you through all the steps required to perform canary deployments on Amazon ECS / Fargate with AWS App Mesh.
+- [App Mesh workshop](https://github.com/brentley/appmeshworkshop) - _WIP_ This is a dedicated workshop on App Mesh.  It will be released at ReInvent 2019, and demonstrates App Mesh on all compute options: ECS/Fargate, EC2 and EKS/Kubernetes.
 
 ### App Mesh for Kubernetes
 
 - [Tutorial for App Mesh on K8](https://docs.aws.amazon.com/en_pv/app-mesh/latest/userguide/mesh-k8s-integration.html) - The official tutorial for App Mesh on Kubernetes.
 - [Learning App Mesh on Kubernetes](https://aws.amazon.com/blogs/compute/learning-aws-app-mesh/) - A tutorial on setting up App Mesh on Kubernetes.
 - [Installing Flagger on EKS](https://github.com/weaveworks/flagger/blob/master/docs/gitbook/install/flagger-install-on-eks-appmesh.md) - Flagger is a CRD which executes automatic canary deployments for Kubernetes via a service mesh.
+- [EKS workshop and App Mesh](https://eksworkshop.com/servicemesh_with_appmesh/) - The tutorial on App Mesh, from the EKS workshop.
 
 ### App Mesh for EC2
 
@@ -58,6 +60,7 @@ _Want to add something? Open a PR!_ 🙂
 - [Fixing bugs with a service mesh](https://www.youtube.com/watch?v=9CQ0PMiOGhg) - How to leverage a service mesh to find and fix bugs.
 - [Canary deployments, dynamic routing and tracing](https://blog.aquasec.com/istio-service-mesh-traffic-control) - The last of a series of posts explaining istio and its security features.
 - [Introduction to Istio blog series](https://developers.redhat.com/topics/service-mesh/) - This is a 10 part blog series by RedHat on Istio for Kubernetems/OpenShift.
+- [EKS and Istio](https://github.com/fmunz/eksIstioWorkshop) - Tailored AWS Kubernetes Workshop with EKS, Envoy / Istio and AWS App Mesh.
 
 ### Linkerd
 
