@@ -45,6 +45,7 @@ _Want to add something? Open a PR!_ 🙂
 - [Learning App Mesh on Kubernetes](https://aws.amazon.com/blogs/compute/learning-aws-app-mesh/) - A tutorial on setting up App Mesh on Kubernetes.
 - [Installing Flagger on EKS](https://github.com/weaveworks/flagger/blob/master/docs/gitbook/install/flagger-install-on-eks-appmesh.md) - Flagger is a CRD which executes automatic canary deployments for Kubernetes via a service mesh.
 - [EKS workshop and App Mesh](https://eksworkshop.com/servicemesh_with_appmesh/) - The tutorial on App Mesh, from the EKS workshop.
+- [App Mesh sidecar injection for EKS](https://aws.amazon.com/blogs/containers/using-sidecar-injection-on-amazon-eks-with-aws-app-mesh/) - Disusses how to use the automatic sidecar injector for App Mesh.  The injector will allow developers to create their pods/deployments as before, but gain the advantages of a service mesh with no additional work.
 
 ### App Mesh for EC2
 
