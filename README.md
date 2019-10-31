@@ -37,6 +37,7 @@ _Want to add something? Open a PR!_ 🙂
 - [Appmesh on ECS using CDK](https://github.com/nathanpeck/greeter-app-mesh-cdk) - An example of how to use AWS Cloud Development Kit to setup an AWS App Mesh service mesh in AWS Elastic Container Service 
 - [Voter App demo](https://github.com/aws-samples/voteapp) - An example of how to use App Mesh with a typical micro-service application.
 - [Canary Deployments using App Mesh on Fargate](https://hackernoon.com/perform-canary-deployments-with-aws-app-mesh-on-amazon-ecs-fargate-3l3lo3zf8) - In this article, I will walk you through all the steps required to perform canary deployments on Amazon ECS / Fargate with AWS App Mesh.
+- [ECS App Mesh workshop](https://github.com/aws-samples/ecs-mesh-workshop) - This quick start solution is designed to easily launch ECS with various powerful features, such as spot fleet, auto scaling with mixed fleet, service mesh, monitoring tools, and more. Linkerd, Prometheus, and Grafana as major components are integrated ECS in this solution but you can use your favorite.
 - [App Mesh workshop](https://github.com/brentley/appmeshworkshop) - _WIP_ This is a dedicated workshop on App Mesh.  It will be released at ReInvent 2019, and demonstrates App Mesh on all compute options: ECS/Fargate, EC2 and EKS/Kubernetes.
 
 ### App Mesh for Kubernetes
