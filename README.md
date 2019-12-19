@@ -38,7 +38,7 @@ _Want to add something? Open a PR!_ 🙂
 - [Voter App demo](https://github.com/aws-samples/voteapp) - An example of how to use App Mesh with a typical micro-service application.
 - [Canary Deployments using App Mesh on Fargate](https://hackernoon.com/perform-canary-deployments-with-aws-app-mesh-on-amazon-ecs-fargate-3l3lo3zf8) - In this article, I will walk you through all the steps required to perform canary deployments on Amazon ECS / Fargate with AWS App Mesh.
 - [ECS App Mesh workshop](https://github.com/aws-samples/ecs-mesh-workshop) - This quick start solution is designed to easily launch ECS with various powerful features, such as spot fleet, auto scaling with mixed fleet, service mesh, monitoring tools, and more. Linkerd, Prometheus, and Grafana as major components are integrated ECS in this solution but you can use your favorite.
-- [App Mesh workshop](https://github.com/brentley/appmeshworkshop) - _WIP_ This is a dedicated workshop on App Mesh.  It will be released at ReInvent 2019, and demonstrates App Mesh on all compute options: ECS/Fargate, EC2 and EKS/Kubernetes.
+- [App Mesh workshop](https://github.com/brentley/appmeshworkshop) - _ This is a dedicated workshop on App Mesh.  It was released at ReInvent 2019, and demonstrates App Mesh on all compute options: ECS/Fargate, EC2 and EKS/Kubernetes.
 
 ### App Mesh for Kubernetes
 
@@ -47,6 +47,10 @@ _Want to add something? Open a PR!_ 🙂
 - [Installing Flagger on EKS](https://github.com/weaveworks/flagger/blob/master/docs/gitbook/install/flagger-install-on-eks-appmesh.md) - Flagger is a CRD which executes automatic canary deployments for Kubernetes via a service mesh.
 - [EKS workshop and App Mesh](https://eksworkshop.com/servicemesh_with_appmesh/) - The tutorial on App Mesh, from the EKS workshop.
 - [App Mesh sidecar injection for EKS](https://aws.amazon.com/blogs/containers/using-sidecar-injection-on-amazon-eks-with-aws-app-mesh/) - Disusses how to use the automatic sidecar injector for App Mesh.  The injector will allow developers to create their pods/deployments as before, but gain the advantages of a service mesh with no additional work.
+- [App Mesh Helm Charts](https://github.com/aws/eks-charts) - A series of helm charts, which will make operational usage of App Mesh easier.  Charts include Prometheus / Grafana, AWS X-Ray, Jaeger and Datadog components.
+- [App Mesh Controller for EKS](https://github.com/aws/aws-app-mesh-controller-for-k8s) - A controller to help manage App Mesh resources for a Kubernetes cluster.
+- [App Mesh injector for Kubernetes](https://github.com/aws/aws-app-mesh-inject) - AWS App Mesh sidecar injector for Kubernetes.
+
 
 ### App Mesh for EC2
 
