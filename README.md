@@ -38,7 +38,8 @@ _Want to add something? Open a PR!_ 🙂
 - [Voter App demo](https://github.com/aws-samples/voteapp) - An example of how to use App Mesh with a typical micro-service application.
 - [Canary Deployments using App Mesh on Fargate](https://hackernoon.com/perform-canary-deployments-with-aws-app-mesh-on-amazon-ecs-fargate-3l3lo3zf8) - In this article, I will walk you through all the steps required to perform canary deployments on Amazon ECS / Fargate with AWS App Mesh.
 - [ECS App Mesh workshop](https://github.com/aws-samples/ecs-mesh-workshop) - This quick start solution is designed to easily launch ECS with various powerful features, such as spot fleet, auto scaling with mixed fleet, service mesh, monitoring tools, and more. Linkerd, Prometheus, and Grafana as major components are integrated ECS in this solution but you can use your favorite.
-- [App Mesh workshop](https://github.com/brentley/appmeshworkshop) - _ This is a dedicated workshop on App Mesh.  It was released at ReInvent 2019, and demonstrates App Mesh on all compute options: ECS/Fargate, EC2 and EKS/Kubernetes.
+- [App Mesh workshop](https://github.com/brentley/appmeshworkshop) - This is a dedicated workshop on App Mesh.  It was released at ReInvent 2019, and demonstrates App Mesh on all compute options: ECS/Fargate, EC2 and EKS/Kubernetes.
+- [Using App Mesh with ECS/Fargate](https://aws.amazon.com/blogs/compute/using-aws-app-mesh-with-fargate/) - Shows how to deploy App Mesh on Fargate.
 
 ### App Mesh for Kubernetes
 
@@ -50,7 +51,9 @@ _Want to add something? Open a PR!_ 🙂
 - [App Mesh Helm Charts](https://github.com/aws/eks-charts) - A series of helm charts, which will make operational usage of App Mesh easier.  Charts include Prometheus / Grafana, AWS X-Ray, Jaeger and Datadog components.
 - [App Mesh Controller for EKS](https://github.com/aws/aws-app-mesh-controller-for-k8s) - A controller to help manage App Mesh resources for a Kubernetes cluster.
 - [App Mesh injector for Kubernetes](https://github.com/aws/aws-app-mesh-inject) - AWS App Mesh sidecar injector for Kubernetes.
-
+- [Cross Amazon EKS cluster App Mesh using AWS Cloud Map](https://aws.amazon.com/blogs/containers/cross-amazon-eks-cluster-app-mesh-using-aws-cloud-map/) - This blog shows to run a single mesh across two different clusters in the same VPC. The trick is to use Cloud Map for service discovery, since it can work across clusters in the same region.
+- [Using Gloo as an Ingress Gateway for AWS App Mesh](https://aws.amazon.com/blogs/containers/using-gloo-as-an-ingress-gateway-for-aws-app-mesh/) - Gloo is an amazing Envoy-based Ingress Gateway.  This blog demonstrates how to use it to direct traffic into an App Mesh cluster.
+- [Using Gloo as an Ingress](https://docs.solo.io/gloo/latest/gloo_integrations/service_mesh/gloo_app_mesh/) - This is similar to the above post, but this post is written by the folk's at Solo who make Gloo.  The previous post was written by an AWS Solutions Architect.
 
 ### App Mesh for EC2
 
