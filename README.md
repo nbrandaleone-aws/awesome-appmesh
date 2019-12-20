@@ -54,6 +54,7 @@ _Want to add something? Open a PR!_ 🙂
 - [Cross Amazon EKS cluster App Mesh using AWS Cloud Map](https://aws.amazon.com/blogs/containers/cross-amazon-eks-cluster-app-mesh-using-aws-cloud-map/) - This blog shows to run a single mesh across two different clusters in the same VPC. The trick is to use Cloud Map for service discovery, since it can work across clusters in the same region.
 - [Using Gloo as an Ingress Gateway for AWS App Mesh](https://aws.amazon.com/blogs/containers/using-gloo-as-an-ingress-gateway-for-aws-app-mesh/) - Gloo is an amazing Envoy-based Ingress Gateway.  This blog demonstrates how to use it to direct traffic into an App Mesh cluster.
 - [Using Gloo as an Ingress](https://docs.solo.io/gloo/latest/gloo_integrations/service_mesh/gloo_app_mesh/) - This is similar to the above post, but this post is written by the folk's at Solo who make Gloo.  The previous post was written by an AWS Solutions Architect.
+- [GitOps and App Mesh](https://eks.handson.flagger.dev/profile/#create-an-eks-cluster) - This blog is how to use GitOps with EKS. In particular, it will install App Mesh and Flagger onto an EKS cluster.  Flagger is a wonderful Kubernetes Operator, which automates canary deployments.
 
 ### App Mesh for EC2
 
